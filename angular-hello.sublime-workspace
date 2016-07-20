@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Polls",
+				"PollsCtrl"
+			],
+			[
+				"lo",
+				"loadPollData"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$loca",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"form-",
+				"form-group"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/pollsterE2E.sublime-build",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dev/AngularJS/hello/hello.js",
+		"/C/Dev/AngularJS/hello/hello.html",
+		"/C/Dev/AngularJS/angular-json-human-arrFix.js",
+		"/C/Dev/AngularJS/angular-json-human.js",
+		"/C/Dev/Pollster/angular/pollster/package.json",
+		"/C/Dev/Pollster/angular/pollster/server.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/create/new.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/create/new.html",
+		"/C/Dev/Pollster/angular/pollster/app/polls/polls.html",
+		"/C/Dev/Pollster/angular/pollster/app/polls/polls.js",
+		"/C/Dev/Pollster/angular/pollster/app/resources/polls.js",
+		"/C/Dev/Pollster/angular/pollster-resource/server.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/poll.js",
+		"/C/Dev/Pollster/angular/pollster/app/app.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/poll.html",
+		"/C/Dev/Pollster/angular/pollster/app/index.html",
+		"/C/Dev/Pollster/angular/pollster/bower.json",
+		"/C/Dev/Pollster/angular/pollster/app/bower_components/angular/.bower.json",
+		"/C/Dev/Pollster/angular/pollster/e2e-tests/scenarios.js",
+		"/C/Dev/Pollster/angular/pollster/app/components/menu/menu.component.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/new.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/new/newPoll.js",
+		"/C/Dev/Pollster/angular/pollster/app/resources/categories.js",
+		"/C/Dev/Pollster/angular/pollster/app/bower_components/angular/bower.json",
+		"/C/Dev/Pollster/angular/pollster/e2e-tests/protractor.conf.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/categories/categories.js",
+		"/C/Dev/Pollster/angular/pollster/app/polls/categories/categories.html",
+		"/C/Users/Erin_2/AppData/Roaming/Sublime Text 2/Packages/User/pollsterE2E.sublime-build",
+		"/C/Dev/Pollster/angular/pollster/e2e.bat",
+		"/C/Dev/Pollster/angular/pollster/start.bat",
+		"/C/Users/Erin_2/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Dev\\Pollster\\angular\\pollster\\app",
+			"C:\\Dev\\Pollster\\angular\\pollster"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$scope",
+			"#/",
+			"buil"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 246.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
