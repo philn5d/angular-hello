@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"TI",
+				"title	Tag"
+			],
+			[
+				"BO",
+				"body	Tag"
+			],
+			[
 				"Polls",
 				"PollsCtrl"
 			],
@@ -43,6 +51,44 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 50,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(function(ng){\n	'use strict'\n\n	ng.module('app', ['app.hello'])\n		.component('app.main', {\n			controllerAs:'m',\n			templateUrl:'main.html',\n		});\n	ng.module('app.hello', [])\n		.component('hello', {\n			controllerAs: 'vm',\n			template:'hello {{vm.you.name}}',\n			bindings: {\n				you:'<'\n			}\n		});\n})(window.angular)",
+			"file": "app/app.js",
+			"file_size": 6,
+			"file_write_time": 131134595808117336,
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Windows",
+				"name": "app.js"
+			}
+		},
+		{
+			"file": "app/main.html",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Windows",
+				"name": "main.html"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows",
+				"name": "index.html"
+			}
+		}
 	],
 	"build_system": "Packages/User/pollsterE2E.sublime-build",
 	"command_palette":
@@ -138,8 +184,116 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.js",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/main.html",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"auto_name": "main.html",
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
